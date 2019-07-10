@@ -1,0 +1,25 @@
+{
+  "name": "emoji-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./public/index.html --open 'google chrome' --log-level 3"
+  },
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.0.0",
+    "styled-normalize": "^8.0.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "json5": "^2.1.0",
+    "parcel": "^1.12.3"
+  }
+}

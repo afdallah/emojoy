@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.is-copying {
+  transform: scale(1.2);
+}
+
+.is-copying .tooltip {
+  transform: scale(1);
+}
